@@ -1,6 +1,26 @@
 <div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
+
+### 🖼️ MamiHealth App Preview
+
+<table>
+  <tr>
+    <td align="center">
+      <img src="./Asset/landing_page.jpg" width="300px"/><br>
+      <sub><b>Landing Page</b></sub>
+    </td>
+    <td align="center">
+      <img src="./Asset/chat_page.JPG" width="300px"/><br>
+      <sub><b>Chat Interaction</b></sub>
+    </td>
+    <td align="center">
+      <img src="./Asset/setting_page.JPG" width="300px"/><br>
+      <sub><b>Settings Page</b></sub>
+    </td>
+  </tr>
+</table>
+
 </div>
+
 
 <!-- Project Banner -->
 <div align="center">
