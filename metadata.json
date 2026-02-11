@@ -1,0 +1,8 @@
+{
+  "name": "MamiHealth - 爱你妈咪",
+  "description": "Your warm, AI-powered nutrition companion for chronic disease management and healthy living.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
